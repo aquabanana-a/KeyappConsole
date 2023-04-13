@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gplayapi.main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gplayapi.main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
